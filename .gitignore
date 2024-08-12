@@ -6,7 +6,7 @@ uid
 *.rdbg
 *.exe
 *.pdb
-.build/
+build/
 *.sublime-workspace
 *.sublime-project
 *.vs
